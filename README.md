@@ -66,8 +66,6 @@ Estou construindo minha trajetória como desenvolvedora e publicando meus projet
 - 🗄 **Sistema de cadastro com banco de dados:** projeto em SQL com tabelas, relacionamentos e consultas.
 - 📊 **Dashboard em Power BI:** análise de dados públicos com gráficos e indicadores.
 
-> Assim que cada projeto estiver pronto, ele aparece aqui com o link do repositório.
-
 ---
 
 ## 📫 Vamos nos conectar?
