@@ -6,9 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=9B59B6&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+a+Eduarda!+%F0%9F%91%8B;Foco+em+Front-End+e+Banco+de+Dados;Aprendendo+e+construindo+projetos+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=4A90D9&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+a+Eduarda!+%F0%9F%91%8B;Foco+em+Front-End+e+Banco+de+Dados;Aprendendo+e+construindo+projetos+%F0%9F%92%BB" alt="Typing SVG" />
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/eduarda-mazuqueli"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
